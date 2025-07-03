@@ -20,11 +20,15 @@ AI PrivacyCheck is a Streamlit-powered AI assistant that helps users detect priv
 -> Gemini API via ai_engine.py
 
 📦 Installation
+'''bash
 git clone https://github.com/AditiGusain-14/AI-PrivacyCheck.git
-cd ai-privacycheck
-pip install -r requirements.txt
-streamlit run app.py
 
+cd ai-privacycheck
+
+pip install -r requirements.txt
+
+streamlit run app.py
+'''
 🖼️ App Screenshots
 
 -> Login Page
