@@ -25,6 +25,20 @@ cd ai-privacycheck
 pip install -r requirements.txt
 streamlit run app.py
 
+🖼️ App Screenshots
+
+-> Login Page
+![Login Page](screenshots/login_page.png)
+
+-> Chat Interface
+![Chat UI](screenshots/chat_ui-1.png)
+
+-> AI Response Output
+![Chat Output](screenshots/chat_ui-output.png)
+
+->Sidebar + Risk Meter
+![Sidebar + Risk Meter](screenshots/sidebar_edit-&-Risk_meter.png)
+
 📄 License
 This project is licensed under the MIT License. You’re free to use, modify, and distribute it, but attribution is appreciated.
 
