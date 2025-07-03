@@ -21,6 +21,7 @@ AI PrivacyCheck is a Streamlit-powered AI assistant that helps users detect priv
 
 📦 Installation
 '''bash
+
 git clone https://github.com/AditiGusain-14/AI-PrivacyCheck.git
 
 cd ai-privacycheck
