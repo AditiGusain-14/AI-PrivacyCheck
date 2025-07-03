@@ -1,0 +1,7 @@
+# Ignore sensitive files and folders
+api_key.py
+__pycache__/
+.env
+*.pyc
+*.pkl
+*.db
