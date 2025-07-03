@@ -30,6 +30,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 '''
+
 🖼️ App Screenshots
 
 -> Login Page
