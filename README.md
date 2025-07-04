@@ -4,11 +4,13 @@ AI PrivacyCheck is a Streamlit-powered AI assistant that helps users detect priv
 🚀 Features
 1) Login/Signup System
 2) AI Chatbot for online safety and digital privacy
-3) Screenshot Upload & Analysis
+3) Screenshot Upload & Analysis* 
 4) Privacy Risk Score meter (bar style)
 5) Chat History per User
 6) Rename/Delete Chat Sessions
 7) Looks and behaves like an AI chat box
+   
+*Screenshot upload is included in the UI but currently **not functional** — full analysis of screenshots will be supported in future updates via OCR integration (e.g., Tesseract).
 
 📸 Example Use Cases
 -> Identify phishing messages
